@@ -20,3 +20,7 @@ Install dependencies with npm install.
 Run the application with npm start.
 Feel free to explore, contribute, and customize this React Atomic Blog for your own projects!
 
+
+<img width="942" alt="Screenshot 2024-01-03 at 09 02 05" src="https://github.com/HesamFarjad/React-Atomic-Blog/assets/81914229/666c6870-8a8a-4905-b304-c9cbf780e4d8">
+<img width="944" alt="Screenshot 2024-01-03 at 09 02 29" src="https://github.com/HesamFarjad/React-Atomic-Blog/assets/81914229/83426540-0380-4afe-8dfe-7d8f39e0f05b">
+<img width="1198" alt="Screenshot 2024-01-03 at 09 04 04" src="https://github.com/HesamFarjad/React-Atomic-Blog/assets/81914229/86c37bae-243c-4522-b495-d662cbfbfd10">
